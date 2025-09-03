@@ -9,3 +9,8 @@
 * git reset, 
 * git log, 
 * git giff
+*Текст курсивом*
+1. Первый пункт
+2. Второй пункт
+3. Третий пункт
+[Skillbox Media](https://skillbox.ru/media/ "Всплывающая подсказка") с подсказкой
